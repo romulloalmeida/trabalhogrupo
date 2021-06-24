@@ -1,0 +1,44 @@
+html * {
+    margin: 0;
+}
+
+header {
+    background-color: grey;
+    text-align: center;
+}
+
+body {
+    background: rgb(42, 42, 42);
+    color: white;
+    font-family: 'Benne', serif;
+}
+
+main {
+    position: relative;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    text-align: center;
+    width: 50%;
+    font-size: 2.5rem;
+}
+
+p {
+    text-indent: 2rem;
+    text-align: justify;
+    position: absolute;
+    width: 50%;
+    font-size: 1.4rem;
+}
+
+img {
+    position: absolute;
+    right: 50px;
+    width: 40%;
+}
